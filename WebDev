@@ -3,20 +3,11 @@
     Homeland Pirates
   </h2>
 </div>
-<div>
-  <a href="https://www.frontendmasters.com">Frontend Masters</a>
-  <a href="https://aka.ms/visual-studio-code">Visual Studio Code</a>
-  <a href="https://www.codepen.io">CodePen</a>
-</div>
 
-<!-- header -->
+
 <div>
-  <h1>This is an h1!</h1>
-  <h2>This is an h2!</h2>
-  <h3>This is an h3!</h3>
-  <h4>This is an h4!</h4>
-  <h5>This is an h5!</h5>
-  <h6>This is an h6!</h6>
+  <h1> OUR TEAM: 
+  </h1>
 </div>
 
 <!-- text empasis -->
@@ -71,20 +62,29 @@
 <div>
   <button>Click me! I don't do anything</button>
 </div>
+<div>
+  <h2>
+    Chart of color
+  <h2>
 
+</div>
 <!-- table -->
 <table>
   <tr>
-    <td>(0,0)</td>
-    <td>(1,0)</td>
+    <td>Avijeet</td>
+    <td>Green</td>
   </tr>
   <tr>
-    <td>(0,1)</td>
-    <td>(1,1)</td>
+    <td>Hanshi</td>
+    <td>Blue</td>
+  </tr>
+  <tr>
+    <td>Jeremy</td>
+    <td>W</td>
   </tr>
 </table>
 
 <!-- for fun -->
 <div>
-  <marquee>This is a really old feature that only works in some browsers. You should never use it for a real website.</marquee>
+  <marquee> We will come back and take 1st... </marquee>
 </div>
